@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         </header>
-        <h1>home</h1>
+        <h1>home </h1>
       </div>
     );
   }
